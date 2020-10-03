@@ -13,7 +13,7 @@ The Horiseon Marketing Agency website is a website that provides an online prese
 
 The beginning of this project came to be when Horiseon Marketing Agency required an online presence for their marketing agency. It was also important to Horiseon to have a codebase that follows accessibility standards and ensuring their own site is optimized for search engines.
 
-Some challenges faced along the way was ensuring that the HTML file worked with GitHub pages. Through trial and error, as well as observations from reputable repositories, I was able to get Horiseon's web page up and running. 
+Some challenges faced along the way was ensuring that the HTML file worked with GitHub pages, and getting the images to work in the github repository. Through trial and error, as well as observations from reputable repositories, I was able to get Horiseon's web page up and running. 
 
 The next feature in preparation to be implemented is an online booking system for in-person consultation with one of the Horiseon Marketing Team members. 
 
@@ -36,7 +36,7 @@ The next feature in preparation to be implemented is an online booking system fo
 
 ## Usage
 
-The Horiseon's website allows prospectable customers to look at the services Horiseon provides as well as the importance of having marketing strategies in place.
+The Horiseon's website allows prospectable customers to look at the services Horiseon provides as well as, the importance of having marketing strategies in place.
 
 To arrive at Horiseon's web page type in : https://karm3nz.github.io/Horiseon/ on the address bar on the web browser to get to webpage.
 
@@ -59,6 +59,16 @@ Mastering Markdown:
 https://guides.github.com/features/mastering-markdown/
 
 Consolidating multiple classes into a single selector:
+https://css-tricks.com/multiple-class-id-selectors/
+
+Nav Element:
+http://html5doctor.com/nav-element/
+
+Visual Studio Code Repository:
+https://github.com/microsoft/vscode
+
+Combining Class Selectors:
+https://stackoverflow.com/questions/31038035/is-it-possible-to-combine-classes-in-css
 https://css-tricks.com/multiple-class-id-selectors/
 
 ## License
