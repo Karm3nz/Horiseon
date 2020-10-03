@@ -5,7 +5,7 @@
 Horiseon Marketing Agency is an agency that gives valuable market insight to help guide critical business decisions.
 
 ## Horiseon Marketing Agency Website
-![Horiseon Webpage Screenshot](./assets/horiseon_screenshot.png)
+![Horiseon Webpage Screenshot](horiseon_screenshot.png)
 
 [https://karm3nz.github.io/Horiseon/](https://karm3nz.github.io/Horiseon/)
 
@@ -40,17 +40,17 @@ The Horiseon's website allows prospectable customers to look at the services Hor
 
 To arrive at Horiseon's web page type in : https://karm3nz.github.io/Horiseon/ on the address bar on the web browser to get to webpage.
 
-![Horiseon Navbar Screenshot](./assets/horiseon_screenshot_navbar.png)
+![Horiseon Navbar Screenshot](horiseon_screenshot_navbar.png)
 On header, in the navigation bar, there list services (E.g. Search Engine Optimization, Online Reputation Management, and Social Media Marketing). When clicked, it will navigate the user to the complimenting section in which elaborates the services provided. 
 
-![Horiseon Side Bar Screenshot](./assets/horiseon_screenshot_sidebar.png)
+![Horiseon Side Bar Screenshot](horiseon_screenshot_sidebar.png)
 
 On the side bar, there displays the importance of having marketing strategies (E.g. Lead Generation, Brand Awareness, and Cost Management).
 
 
 ## Credits
 
-### Links to tutorials, and references referred to when inputting source code, README file, and overall Horiseon webpage project:
+### Links to Tutorials/References Reffered to on Project:
 
 HTML5 Semantic Tags:
 https://www.semrush.com/blog/semantic-html5-guide/?kw=&cmp=CA_SRCH_DSA_Blog_SEO_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=431570675930&kwid=aud-387617292705:dsa-834686684576&cmpid=9882647697&agpid=100281249357&gclid=Cj0KCQjwzbv7BRDIARIsAM-A6-1CTQc6ewIwWPfttHT3ursgnjzSy3SJ_hkh60BVjiB-Ri-LLPxSnXAaAnBpEALw_wcB
