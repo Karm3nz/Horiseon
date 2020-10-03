@@ -5,53 +5,61 @@
 Horiseon Marketing Agency is an agency that gives valuable market insight to help guide critical business decisions.
 
 ## Horiseon Marketing Agency Website
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Horiseon Webpage Screenshot](./assets/horiseon_screenshot.png)
+
+[https://karm3nz.github.io/Horiseon/](https://karm3nz.github.io/Horiseon/)
 
 The Horiseon Marketing Agency website is a website that provides an online presence for Horiseon Marketing Agency, informs services the agency provides to prosepectable clients, as well as the importance of employing marketing strategies.
 
-The next feature to be implemented is an online booking system for in-person consultation with one of the Horiseon Marketing Team members. 
-
 The beginning of this project came to be when Horiseon Marketing Agency required an online presence for their marketing agency. It was also important to Horiseon to have a codebase that follows accessibility standards and ensuring their own site is optimized for search engines.
 
+Some challenges faced along the way was ensuring that the HTML file worked with GitHub pages. Through trial and error, as well as observations from reputable repositories, I was able to get Horiseon's web page up and running. 
 
+The next feature in preparation to be implemented is an online booking system for in-person consultation with one of the Horiseon Marketing Team members. 
 
-
-
-A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. 
-
-A good README helps you stand out among the large crowd of developers putting their work on GitHub.
-
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? 
-
-(Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
-
-If your project has a lot of features, consider adding a heading called "Features" and listing them here.
-
-If you're new to Markdown, read the GitHub guide on Mastering Markdown.
-If you need an example of a good README, check out the VSCode repository.
-
-## Table of Contents (Optional)
-If your README is very long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 
-
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+### Steps:
+
+1) Make sure to have properly functioning computer.
+2) Check if an internet browswer is installed. If so, go to step 4).
+3) Install an internet browser of your choice. 
+4) Open up internet web browser.
+5) In the address bar, type in : https://karm3nz.github.io/Horiseon/ and hit "enter" on the keyboard.
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
+
+The Horiseon's website allows prospectable customers to look at the services Horiseon provides as well as the importance of having marketing strategies in place.
+
+To arrive at Horiseon's web page type in : https://karm3nz.github.io/Horiseon/ on the address bar on the web browser to get to webpage.
+
+![Horiseon Navbar Screenshot](./assets/horiseon_screenshot_navbar.png)
+On header, in the navigation bar, there list services (E.g. Search Engine Optimization, Online Reputation Management, and Social Media Marketing). When clicked, it will navigate the user to the complimenting section in which elaborates the services provided. 
+
+![Horiseon Side Bar Screenshot](./assets/horiseon_screenshot_sidebar.png)
+
+On the side bar, there displays the importance of having marketing strategies (E.g. Lead Generation, Brand Awareness, and Cost Management).
+
 
 ## Credits
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
+
+### Links to tutorials, and references referred to when inputting source code, README file, and overall Horiseon webpage project:
+
+HTML5 Semantic Tags:
+https://www.semrush.com/blog/semantic-html5-guide/?kw=&cmp=CA_SRCH_DSA_Blog_SEO_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=431570675930&kwid=aud-387617292705:dsa-834686684576&cmpid=9882647697&agpid=100281249357&gclid=Cj0KCQjwzbv7BRDIARIsAM-A6-1CTQc6ewIwWPfttHT3ursgnjzSy3SJ_hkh60BVjiB-Ri-LLPxSnXAaAnBpEALw_wcB
+
+Mastering Markdown:
+https://guides.github.com/features/mastering-markdown/
+
+Consolidating multiple classes into a single selector:
+https://css-tricks.com/multiple-class-id-selectors/
 
 ## License
 
@@ -482,9 +490,3 @@ the avoidance of doubt, this paragraph does not form part of the public
 licenses.
 
 Creative Commons may be contacted at creativecommons.org.
-
-## Contributing
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The Contributor Covenant is an industry standard, but you can always write your own.
-
-## Tests
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
