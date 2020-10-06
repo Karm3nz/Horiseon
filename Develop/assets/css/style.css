@@ -74,8 +74,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-/* Content: Search Engine Optimization, Online Reputation Management, Social Media Marketing */
+/* Side bar content: Lead Generation, Brand Awareness, Cost Management */
 .content {
     width: 75%;
     display: inline-block;
@@ -109,7 +108,7 @@ p {
     max-width: 150px;
 }
 
-/* Side bar content: Lead Generation, Brand Awareness, Cost Management */
+/* Content: Search Engine Optimization, Online Reputation Management, Social Media Marketing */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
